@@ -1,0 +1,3 @@
+China production — freight planning
+
+The China production team is coordinating ocean freight for the fixture components. Lead time is six weeks door-to-door; any hardware-material delay cascades directly into the freight booking window.

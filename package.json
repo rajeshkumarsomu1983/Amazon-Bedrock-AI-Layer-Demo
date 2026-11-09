@@ -1,0 +1,20 @@
+{
+  "name": "vira360-bedrock-demo",
+  "version": "1.0.0",
+  "description": "Runnable Amazon Bedrock AI-layer demo for the VIRA360 platform: summarization, action-item extraction, semantic search, and a context-grounded assistant (managed Knowledge Base OR local fallback RAG).",
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/check-access.js",
+    "summarize": "node src/summarize.js",
+    "extract": "node src/extract.js",
+    "ingest": "node src/ingest.js",
+    "search": "node src/search.js",
+    "assistant": "node src/assistant.js",
+    "demo": "node scripts/run-demo.js",
+    "agent": "python3 agent/invoke.py"
+  },
+  "dependencies": {
+    "@aws-sdk/client-bedrock-runtime": "^3.651.0",
+    "@aws-sdk/client-bedrock-agent-runtime": "^3.651.0"
+  }
+}

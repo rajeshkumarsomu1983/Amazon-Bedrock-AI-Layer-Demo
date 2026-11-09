@@ -1,0 +1,10 @@
+node_modules/
+src/data/embeddings.json
+.env
+agent/.venv/
+agent/.build/
+agent/.gateway-client.json
+agent/.env
+agent/config.local.json
+__pycache__/
+.pytest_cache/

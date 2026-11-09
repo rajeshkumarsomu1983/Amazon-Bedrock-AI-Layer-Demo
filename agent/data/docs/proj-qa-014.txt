@@ -1,0 +1,3 @@
+QA — paint finish failure
+
+The latest sample batch did not pass the finish-quality inspection. The coating showed uneven gloss and minor orange-peel texture. Batch must be re-sprayed and re-inspected before it ships to the client.

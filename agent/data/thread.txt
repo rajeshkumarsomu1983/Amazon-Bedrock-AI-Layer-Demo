@@ -1,0 +1,5 @@
+[Rajesh] Client approved the end-cap display design but wants shelf depth reduced by 2 inches.
+[Production] We need to confirm the hardware material by Friday or we miss the delivery date.
+[Rajesh] US store rollout is now 120 locations, up from 90. Budget needs re-approval.
+[QA] Last sample batch failed the paint-finish test and needs to be re-sprayed.
+[Rajesh] Client wants a status update before their Monday board meeting.
